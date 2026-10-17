@@ -164,6 +164,6 @@ sudo ./checkra1n -s
  * sudo: Necessary for low-level USB access on Linux.
  * -s: Boots the device into "safe mode," which disables all third-party tweaks, allowing you to troubleshoot a broken jailbreak.
 > SEO Optimization Tip: This section provides excellent value and targets specific troubleshooting queries. Include original screenshots of the tool's options menu to illustrate the "Skip A11 BPR check" option.
-> 
+> ```
 [adminator](https://t.me/PTXDevx)
 * If you want to know more contact us 👆👆
